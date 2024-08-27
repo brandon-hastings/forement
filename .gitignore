@@ -1,4 +1,10 @@
 /.conda
+/dist
 /__pycache__
 /sam2_b.pt
 /sam_b.pt
+forement.egg-info/PKG-INFO
+forement.egg-info/dependency_links.txt
+forement.egg-info/requires.txt
+forement.egg-info/SOURCES.txt
+forement.egg-info/top_level.txt
