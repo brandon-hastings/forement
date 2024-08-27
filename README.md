@@ -9,6 +9,7 @@ A collection of unsupervised clustering tools for foreground segmentation of an 
 Developed in Python 3.10, but anything over Python 3.7 should work
 
 ### Installation:
+It is reccomended to set up a conda environment specific to each project. For tips see the [conda documentation](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html).
 ```
 pip install forement
 ```
